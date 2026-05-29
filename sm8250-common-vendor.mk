@@ -244,6 +244,7 @@ PRODUCT_PACKAGES += \
     libqtigef \
     libsmwrapper \
     libssrec \
+    libstagefrightdolby \
     libwfdcodecv4l2_proprietary \
     libwfdcommonutils_proprietary \
     libwfdconfigutils_proprietary \
